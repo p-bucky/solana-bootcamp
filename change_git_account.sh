@@ -40,10 +40,10 @@ ssh_config_work="Host github.com-personal
   IdentityFile ~/.ssh/id_home_github"
 
 # Account details
-email_personal="prashant@mande.network"
-username_personal="p-mande"
-email_work="prashanttechjha@gmail.com"
-username_work="p-bucky"
+email_personal="prashanttechjha@gmail.com"
+username_personal="p-bucky"
+email_work="prashant@mande.network"
+username_work="p-mande"
 
 # Choose an account to configure
 echo "Select the GitHub account to configure:"
